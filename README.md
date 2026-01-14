@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi, I'm Simret 👋
+
+I am a 3rd-year Computer Science student.
+I am learning software development and building small projects to improve my skills.
+
+### Skills
+- Java, C++, JavaScript (basic), Python (basic)
+- HTML, CSS
+- Java Swing, SQLite
+
+### What I'm working on
+- Improving my programming fundamentals
+- Building beginner-friendly projects
+
+### Contact
+- GitHub: https://github.com/Simret-Y
+
 
 <!--
 **Simret-Y/Simret-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
